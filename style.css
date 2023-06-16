@@ -281,10 +281,12 @@ strong{
         width: 300px;
     }
 
-    .box2 h3 {
-        margin-right: 220px;
+    .box2-title {
+        display: flex;
+        width: 90%;
+        padding: 15px;
     }
-
+    
     .btn{
         margin-bottom: 20px;
     }
